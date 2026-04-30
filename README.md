@@ -182,4 +182,4 @@ Este laboratorio demuestra el flujo completo de despliegue moderno:
 
 ## 👨‍💻 Autor
 
-Eduar
+Eduardo Silva
